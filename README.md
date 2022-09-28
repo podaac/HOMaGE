@@ -1,5 +1,5 @@
-# Manual on HOMAGE steric sea level and OHC scripts 
-This document describes the scripts used to compute the steric and ocean heat content anomaly estimates from the HOMAGE project. The HOMAGE project provides gridded estimates of steric sea-level anomalies and Ocean Heat Content (OHC) anomalies. The HOMAGE dataset can be found on [PO.DAAC drive](https://podaac-tools.jpl.nasa.gov/drive/files/allData/homage/L4/sio_ohc/v01).
+# Manual on HOMaGE steric sea level and OHC scripts 
+This document describes the scripts used to compute the steric and ocean heat content anomaly estimates from the HOMaGE project. The HOMaGE project provides gridded estimates of steric sea-level anomalies and Ocean Heat Content (OHC) anomalies. The HOMaGE dataset can be found on [PO.DAAC drive](https://podaac-tools.jpl.nasa.gov/drive/files/allData/homage/L4/sio_ohc/v01).
 
 This repository provides the codes and the underlying theory on how to compute steric sea level and ocean heat content anomalies from ocean subsurface temperature and salinity anomalies, as well as a tutorial on how to execute these scripts, and an example how to plot the output data. 
 
